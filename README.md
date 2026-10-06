@@ -1,6 +1,6 @@
 # Hi, I'm Guy 👋
 
-CS @ UCLA '29 · I build LLM systems, with a focus on AI safety, red-teaming, and interpretability.
+CS @ UCLA '29 · I've worked on full-stack web apps and enjoy building AI systems.
 
 **Currently**
 - 🔴 [multi-agent-red-team](https://github.com/guynutman/multi-agent-red-team): a from-scratch multi-agent system that probes LLMs for prompt-injection failures
