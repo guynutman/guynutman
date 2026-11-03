@@ -5,7 +5,7 @@ CS @ UCLA '29 · I've worked on full-stack web apps and enjoy building AI system
 **Currently**
 - 🔴 [multi-agent-red-team](https://github.com/guynutman/multi-agent-red-team): a from-scratch multi-agent system that probes LLMs for prompt-injection failures
 - 🧠 [echo-state](https://github.com/guynutman/echo-state): activation steering + LLM introspection evaluation (Apart Research Digital Minds Sprint)
-- 🚀 Software engineer at Vesper, a social study app that launched this month
+- 🚀 Software engineer at Vesper, a social study app that launched October 2026
 
 **Looking for:** Summer 2027 SWE / AI/ML internships
 
